@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
