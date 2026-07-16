@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0338-counting-bits) |
 ## Math
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
