@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0016-3sum-closest) |
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3536-maximum-product-of-two-digits) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
