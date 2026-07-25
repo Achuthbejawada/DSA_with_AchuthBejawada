@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0011-container-with-most-water) |
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0011-container-with-most-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
