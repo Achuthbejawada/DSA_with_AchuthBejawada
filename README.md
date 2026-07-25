@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
