@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
 | [1534-count-good-triplets](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1534-count-good-triplets) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1534-count-good-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
