@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0860-lemonade-change) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
