@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0055-jump-game) |
 | [0279-perfect-squares](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0338-counting-bits) |
 ## Bit Manipulation
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0016-3sum-closest) |
+| [0055-jump-game](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0055-jump-game) |
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0455-assign-cookies) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0860-lemonade-change) |
 ## Breadth-First Search
