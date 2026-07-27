@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1534-count-good-triplets) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
