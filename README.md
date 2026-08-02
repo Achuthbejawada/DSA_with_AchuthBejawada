@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0338-counting-bits) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0055-jump-game) |
+| [0136-single-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
