@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1534-count-good-triplets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
