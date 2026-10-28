@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0055-jump-game) |
 | [0279-perfect-squares](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0338-counting-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0338-counting-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1534-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
