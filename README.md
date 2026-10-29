@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0338-counting-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1534-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0215-kth-largest-element-in-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -156,4 +159,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3882-minimum-xor-path-in-a-grid) |
+## String
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
