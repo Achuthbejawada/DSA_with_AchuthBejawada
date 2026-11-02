@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0279-perfect-squares) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0724-find-pivot-index) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
