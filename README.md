@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Achuthbejawada/DSA_with_AchuthBejawada/tree/master/0724-find-pivot-index) |
